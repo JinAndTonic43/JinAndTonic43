@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinsp43
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML, CSS, and JavaScript!
 
 <!---
 jinsp43/jinsp43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
