@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinsp43
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.js!
+- 🌱 I’m proficient in HTML, Sass, JavaScript, React.js, Node.js, Express.js, and MySQL!
 
 <!---
 jinsp43/jinsp43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
