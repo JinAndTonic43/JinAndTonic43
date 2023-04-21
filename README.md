@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinsp43
-- I’m proficient in JavaScript, React.js, Node.js, Express.js, MySQL, HTML, and Sass!
+- 💻 I’m proficient in JavaScript, React.js, Node.js, Express.js, MySQL, HTML, and Sass!
 - 🌱 Currently learning TypeScript, Next.js, and React Native!
 
 <!---
